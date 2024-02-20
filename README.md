@@ -1,5 +1,6 @@
-<h1 align="center">Hi there, I'm Sergey
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi%20there,%20I'm%20Sergey!&fontAlign=50&fontColor=FFFFFF&textBg=false&desc=Welcome%20to%20my%20GitHub%20profile!&descAlign=70&descAlignY=65&fontAlignY=45&reversal=true)
+
+
 
 
 <a href="https://github.com/SER0021"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&multiline=true&random=false&width=1000&lines=+I'm+an+aspiring+iOS+developer+focused+on+creating+innovative%2C+user-friendly+apps." alt="Typing SVG" /></a>
@@ -38,7 +39,7 @@
 </p>
 </details>
 
-
+![Snake animation](https://github.com/SER0021/SER0021/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
